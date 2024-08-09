@@ -31,3 +31,4 @@ while True:
     if min == 25:
         print("\a")
         break
+        
